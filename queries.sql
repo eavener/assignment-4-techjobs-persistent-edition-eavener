@@ -1,4 +1,5 @@
 -- Part 1: Test it with SQL
+-- list the columns and their data types in the table as a SQL comment.
 
 -- Part 2: Test it with SQL
 
